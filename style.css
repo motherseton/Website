@@ -1,0 +1,26 @@
+body
+{
+    background-image: url(../images/Asset0011.jpg);
+}
+
+
+
+footer{
+    
+    padding: 20px;
+    width:100%;
+    position: absolute;
+     bottom: 20px;
+     text-align: center;
+}
+
+h1{ 
+    font-size: 70px;
+    font-family:"Bodoni 72 Oldstyle"; 
+}
+
+h2 {
+    font-size: 20px;
+    font-family:"Bodoni 72 Oldstyle"; 
+}
+
